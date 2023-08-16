@@ -51,7 +51,7 @@ async function nearbyStops(lat: number, lon: number, setStops: ReactSetState<str
     
     const firstStop: string = data[1].name
     setStops(firstStop)
-}
+} 
 
 interface Stop {
     name: string
