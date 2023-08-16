@@ -8,7 +8,7 @@ function App() {
   const [stops, setStops]     = useState<string>('')
 	// TODO: save lat+lon in state variables instead of MESSAGE
 	// 59.3297408 latitude, 18.0224
-	const lat = 59.3297408, lon = 18.0224
+	 const lat = 57.7087, lon = 11.9751
 
 	return (
 		<div className="vertical-layout">
