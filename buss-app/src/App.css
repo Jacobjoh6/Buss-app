@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* flex container */
+.vertical-layout {
+	display: flex;
+	flex-direction: column;
+}
+
+/* flex items */
+.vertical-layout > main {
+	
+}
